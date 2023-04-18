@@ -3,6 +3,7 @@
     <dimen name="btn_1">30dp</dimen>
     <dimen name="marginLayout">30dp</dimen>
     <dimen name="margin">30dp</dimen>
-    <dimen name="midle">20dp</dimen>
-    <dimen name="large">30dp</dimen>
+    <dimen name="small">10sp</dimen>
+    <dimen name="midle">20sp</dimen>
+    <dimen name="large">35sp</dimen>
 </resources>
